@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\legion\\source\\repos\\frac_t\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC658B4-6623-4F72-A273-D7EF94A2EF50}|frac_t.vcxproj|C:\\Users\\legion\\source\\repos\\frac_t\\frac_t.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EDC658B4-6623-4F72-A273-D7EF94A2EF50}|frac_t.vcxproj|solutionrelative:frac_t.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frac_t.c",
+              "DocumentMoniker": "C:\\Users\\legion\\source\\repos\\frac_t\\frac_t.c",
+              "RelativeDocumentMoniker": "frac_t.c",
+              "ToolTip": "C:\\Users\\legion\\source\\repos\\frac_t\\frac_t.c",
+              "RelativeToolTip": "frac_t.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-27T08:10:29.403Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
